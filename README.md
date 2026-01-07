@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student looking for an internship at MNC <br>or to contribute to an open source like GSOC
+I’m a Computer Science student passionate about building scalable software and solving real-world problems. I’m actively seeking internship opportunities at MNCs and looking to contribute to impactful open-source projects, including GSoC. I enjoy learning by building, collaborating with developers, and continuously improving my skills in full-stack development and problem solving.
 
 
 ## 🌐 Socials:
